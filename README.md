@@ -2,5 +2,6 @@
 <p align="center">La Verdad Christian College</p>
 
 
-### Portfolio Template
-[Portfolio CV Template](https://themewagon.github.io/ronin/) 04_portfolio_template
+### Portfolio Templates
+[Portfolio CV Template 1](https://themewagon.github.io/ronin/) Portfolio Template 1
+[Portfolio CV Template 2](https://themewagon.github.io/hola/) Portfolio Template 2
