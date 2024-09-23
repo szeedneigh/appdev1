@@ -3,9 +3,10 @@
 <h1 align="center">Application Development and Emerging Technologies</h1>
 <h3 align="center">La Verdad Christian College</h3>
 
-## ACTIVITIES
 
-#### Portfolio Templates
+## 🎫 ACTIVITIES
+
+#### 📄 Portfolio Templates
 
 [Portfolio CV Template 1](https://themewagon.github.io/ronin/) Portfolio Template 1 
 
