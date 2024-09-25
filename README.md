@@ -8,6 +8,4 @@
 
 #### 📄 Portfolio Templates
 
-[Portfolio CV Template 1](https://themewagon.github.io/ronin/) Portfolio Template 1 
-
-[Portfolio CV Template 2](https://themewagon.github.io/hola/) Portfolio Template 2
+[Portfolio CV Template 2](https://themewagon.github.io/hola/) Portfolio Template
