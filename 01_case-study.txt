@@ -1,0 +1,11 @@
+As a Manager:
+
+Given that one of the most important team members has a personal problem affecting the project timeline, it would require empathy coupled with concrete actions. First, I would offer flexibility and support to the affected team member to create a more empathetic environment and allow them to feel supported. Then, I'd quickly reassess the project timeline, with a view on which tasks should be reprioritized and redistributing their responsibilities to other team members. Key will also be transparent communication with the client; I would communicate with them regarding the situation and set proper expectations that will not destroy trust. In addition, checking in regularly with the team will address the new challenges as they emerge and keep everyone motivated and aligned.
+
+As a developer, if, for example, I had a family emergency situation, I would promptly communicate such issues to my manager to make the team adjust to my situation. I would document the current work accomplished and pending tasks; then it is easier for others to step in and handle them if the need arises. I would also ensure all my high-priority tasks are completed or have resources for that task to be enabled to get done easily by others.
+If feasible, I’d also establish a way to be accessible for any critical questions, ensuring the project continues with minimal disruption.
+
+
+What could have been done differently?
+
+An improvement would be best reflected in a proactive manner. Doing a risk assessment at the start of the project and building contingency plans could better prepare the team against potential interruptions. Cross-training of the members on important things to be done and keeping proper documentation on accessible platforms would ease the transition if someone needed to step away. Incremental milestones can also be set through the project life cycle to catch and address issues early on before things get out of hand. Manager and team would, therefore, have a better chance of managing these because the environment would be open and flexible.
