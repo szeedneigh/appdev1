@@ -4,8 +4,8 @@
 <h3 align="center">La Verdad Christian College</h3>
 
 
-## 🎫 ACTIVITIES
+## 🎫 ACTIVITIES / PROJECTS
 
-#### 📄 Portfolio Templates
+#### 📄 Personal Portfolio
 
-[Personal Portfolio CV Template](https://themewagon.github.io/hola/) Portfolio Template
+[szeedneigh](https://szeedneigh.github.io/personal-portfolio/)
